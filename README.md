@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Prashik Sahare from Nagpur<br><br>- 🔭 I’m Fresher .<br>- 📚 I'm currently learning On AI .<br>- ⚡ In my free time I improve my skill sets .</p>
+<p align="left">I'm Prashik Sahare from Nagpur<br><br>- 🔭 I’m Fresher .<br>- 📚 I'm currently learning  AI .<br>- ⚡ In my free time I improve my skill sets .</p>
 
 ###
 
